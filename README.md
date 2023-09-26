@@ -1,7 +1,9 @@
 ***Hi👋 I'm Hanana :)***  
 
 
-![imageedit_11_7419271839](https://github.com/hananagohir/hananagohir/assets/73364515/7c3d3686-a49f-4393-a111-0400415561de)
+![Screenshot 2023-09-25 195409-modified](https://github.com/hananagohir/hananagohir/assets/73364515/0c1b7ad0-f855-42da-a71d-aa8e5a4477d3)
+
+
 
 
 
