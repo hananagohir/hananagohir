@@ -4,9 +4,8 @@
 ![Screenshot 2023-09-25 195409-modified](https://github.com/hananagohir/hananagohir/assets/73364515/0c1b7ad0-f855-42da-a71d-aa8e5a4477d3)
 
 
-![Profile views](https://shields.io/github/views/hanangohir?label=Profile%20views&style=social)
-![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+![Screenshot 2023-09-25 195409-modified](https://img.shields.io/osslifecycle/:user/:repo/:branch)
+
 
 
 🔭 I’m currently working on MooTube, a Youtube Clone, without the use of Youtubes API!  
