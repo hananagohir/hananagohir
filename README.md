@@ -5,7 +5,8 @@
 
 
 ![Profile views](https://shields.io/github/views/hanangohir?label=Profile%20views&style=social)
-
+![image title](https://rushter.com/counter.svg)
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 
 🔭 I’m currently working on MooTube, a Youtube Clone, without the use of Youtubes API!  
