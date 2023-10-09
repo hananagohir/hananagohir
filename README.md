@@ -4,16 +4,7 @@
 ![Screenshot 2023-09-25 195409-modified](https://github.com/hananagohir/hananagohir/assets/73364515/0c1b7ad0-f855-42da-a71d-aa8e5a4477d3)
 
 
-![Profile views](https://shields.io/github/followers/your-username?label=Profile%20views&style=social)
-![Profile views](https://shields.io/github/followers/hananagohir?label=Profile%20views&style=for-the-badge)
-![Profile views](https://shields.io/github/followers/hananagohir?label=Profile%20views&style=flat)
-![Profile views](https://shields.io/github/followers/hananagohir?label=Profile%20views&style=plastic)
-
-
-
-
-
-
+![Profile views](https://shields.io/github/views/hanangohir?label=Profile%20views&style=social)
 
 
 
